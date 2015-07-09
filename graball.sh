@@ -36,7 +36,6 @@ mkdir -p $BDIR
 cd $BDIR
 
 k=1
-# clones and removes git dir
 for i in "${standard[@]}"
 do
 

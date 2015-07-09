@@ -1,0 +1,10 @@
+clone repo first
+
+then initial and pull latest with this command
+
+git submodule update --init --depth 1 --recursive
+
+
+#this get everything - not recommended
+#git submodule update --init --recursive
+
